@@ -1,4 +1,4 @@
 - Hi, I’m @alex-aviles
 - I’m interested in becoming a cybersecurity professional.
-- I’m currently studying CyberSecurity at Arizona State University.
+- I graduated in Cybersecurity from Arizona State University with a Master's Degree.
 - I’m looking to collaborate on personal projects that help me improve my knowledge base.
